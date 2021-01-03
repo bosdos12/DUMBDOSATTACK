@@ -15,7 +15,7 @@ while docontinueusingtheapp == True:
         elif procceedordont == "con":
             docontinueusingtheapp = False
             print("App Started")
-            # checking if the user is sure of the server they entere
+            # checking if the user is sure of the server they entered
             userisureitscorrect = False
             while(userisureitscorrect == False):
                 # asking the user for them to enter the server ip/domain
